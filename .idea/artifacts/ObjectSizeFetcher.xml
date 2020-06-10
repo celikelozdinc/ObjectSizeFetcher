@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ObjectSizeFetcher">
+    <output-path>$PROJECT_DIR$/out/artifacts/ObjectSizeFetcher</output-path>
+    <root id="archive" name="ObjectSizeFetcher.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ObjectSizeFetcher" />
+    </root>
+  </artifact>
+</component>
